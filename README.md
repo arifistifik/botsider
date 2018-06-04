@@ -1,5 +1,5 @@
-# simpleSB
-SelfBot Line Sider
+# BotSider
+SelfBot Line Sider , Tagall
 via Android (termux)
 
 List Command Standart :
