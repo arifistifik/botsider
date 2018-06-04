@@ -23,7 +23,9 @@ Instalasi di termux :
 - pip3 install requests
 - pip3 install thrift
 - git clone http://github.com/arifistifik/sider
-Run on termux :
+
+
+#Run on termux :
 - cd sider
 - python sb.py
 
